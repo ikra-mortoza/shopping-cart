@@ -1,2 +1,2 @@
 # shopping-cart
-A Spring Boot REST API built for an online shopping cart.
+A simple CRUD operation using a REST API designed for an online shopping cart.
